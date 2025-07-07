@@ -236,3 +236,204 @@
     "full_time"
   ]
 },
+{
+  "job_title": "APP DEVELOPERS",
+  "job_description": "Build MVP from scratch in 2 months. Work on real product launch. India\u2019s Auto-Rickshaw Ride-Hailing App for Tier 2 & Tier 3 Cities.",
+  "company_name": "ECTO",
+  "location": "Remote",
+  "experience_required": "Final-year students or recent grads preferred",
+  "tech_stack": [
+    "Flutter",
+    "React Native",
+    "Firebase",
+    "Node.js"
+  ],
+  "contact_info": [
+    "singla.manan117@gmail.com",
+    "+91 93500 30763"
+  ],
+  "score": 9,
+  "tier": "medium",
+  "tags": [
+    "paid",
+    "student_friendly",
+    "high_learning",
+    "remote",
+    "clear_info"
+  ]
+},
+{
+  "job_title": "Edge AI Intern",
+  "job_description": "The Artificial Intelligence team at QpiAI is building the next frontier of AI-driven edge intelligence\u2014powering smart devices, real-time perception systems, and decentralized learning pipelines for industry-grade applications. From Agentic AI to Computer Vision and model optimization for edge hardware, we are designing cutting-edge solutions to push AI inference beyond the cloud. If you\u2019re excited by the idea of bringing Large Models to Tiny Devices, we want to hear from you. We\u2019re hiring Edge AI Interns to work alongside our product and engineering teams. You will be contributing to: Edge AI model optimization, quantization, and ONNX conversion; Edge deployment workflows (e.g., Android/Linux) using Docker and Kubernetes; Real-time inference for CV and NLP applications on resource-constrained devices; Prototyping and testing model performance across ARM/NPU/EdgeTPU platforms; Integrating with QpiAI Pro and Agent Hive pipelines for edge-to-cloud AI orchestration.",
+  "company_name": "QpiAI",
+  "location": "Bengaluru, Karnataka, India",
+  "experience_required": "Recent graduate or student",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "ONNX",
+    "TorchVision",
+    "OpenCV",
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "ARM",
+    "NPU",
+    "EdgeTPU",
+    "MLOps",
+    "CI/CD",
+    "MQTT",
+    "MinIO",
+    "TVM",
+    "TensorRT",
+    "TFLite",
+    "OpenVINO"
+  ],
+  "contact_info": [],
+  "score": 10,
+  "tier": "medium",
+  "tags": [
+    "student_friendly",
+    "high_learning",
+    "full_time",
+    "clear_info"
+  ]
+},
+{
+  "job_title": [
+    "Graphic Designing Intern",
+    "Outreach & Publicity Intern",
+    "Content Writing Intern",
+    "Content Creation Intern",
+    "Business Development Intern"
+  ],
+  "job_description": "2-month internship openings at FoundrFlow, a youth-led startup community.  Work with a dynamic startup team, gain hands-on experience, and build your portfolio. Remote/Hybrid.",
+  "company_name": "FoundrFlow",
+  "location": "Remote/Hybrid",
+  "experience_required": "Intern",
+  "tech_stack": [
+    "Graphic Design Software (e.g., Adobe Photoshop, Illustrator)",
+    "Social Media Management Tools",
+    "Content Management Systems (e.g., WordPress)",
+    "Video Editing Software (e.g., Adobe Premiere Pro, Final Cut Pro)",
+    "Business Development Tools"
+  ],
+  "contact_info": []
+},
+{
+  "job_title": "Internship",
+  "job_description": "2-month internship openings at FoundrFlow, a youth-led startup community. Domains include Graphic Designing, Outreach & Publicity, Content Writing, Content Creation, and Business Development.  Work with a dynamic startup team, gain hands-on experience, and build your portfolio. Remote/Hybrid.",
+  "company_name": "FoundrFlow",
+  "location": "Remote/Hybrid",
+  "experience_required": "Intern",
+  "tech_stack": [
+    "Graphic Design Software (e.g., Adobe Photoshop, Illustrator)",
+    "Content Management Systems (e.g., WordPress)",
+    "Social Media Marketing Tools",
+    "Video Editing Software (e.g., Adobe Premiere Pro, DaVinci Resolve)",
+    "Microsoft Office Suite"
+  ],
+  "contact_info": [],
+  "score": 7,
+  "tier": "medium",
+  "tags": [
+    "unpaid",
+    "student_friendly",
+    "high_learning",
+    "startup",
+    "remote",
+    "clear_info"
+  ]
+},
+{
+  "job_title": [
+    "Graphic Designing Intern",
+    "Outreach & Publicity Intern",
+    "Content Writing Intern",
+    "Content Creation Intern",
+    "Business Development Intern"
+  ],
+  "job_description": "2-month internship openings at FoundrFlow, a youth-led startup community.  Work with a dynamic startup team, gain hands-on experience, and build your portfolio. Remote/Hybrid option available.",
+  "company_name": "FoundrFlow",
+  "location": "Remote/Hybrid",
+  "experience_required": "Intern",
+  "tech_stack": [
+    "Graphic Design Software (e.g., Adobe Photoshop, Illustrator)",
+    "Social Media Marketing Tools",
+    "Content Management Systems (e.g., WordPress)",
+    "Video Editing Software (e.g., Adobe Premiere Pro, Final Cut Pro)",
+    "Business Development Strategies"
+  ],
+  "contact_info": [],
+  "score": 9,
+  "tier": "medium",
+  "tags": [
+    "unpaid",
+    "high_learning",
+    "student_friendly",
+    "startup",
+    "remote",
+    "clear_info"
+  ]
+},
+{
+  "job_title": "APP DEVELOPERS",
+  "job_description": "Build MVP from scratch in 2 months. Work on real product launch. Final-year students or recent grads preferred.",
+  "company_name": "ALECTO",
+  "location": "Remote",
+  "experience_required": "Final-year students or recent grads",
+  "tech_stack": [
+    "Flutter",
+    "React Native",
+    "Firebase",
+    "Node.js"
+  ],
+  "contact_info": [
+    "singla.manan117@gmail.com",
+    "+919350030763"
+  ],
+  "score": 8,
+  "tier": "medium",
+  "tags": [
+    "paid",
+    "student_friendly",
+    "high_learning",
+    "remote",
+    "full_time",
+    "clear_info"
+  ]
+},
+{
+  "job_title": "Edge AI Intern",
+  "job_description": "🚀 Edge AI Intern – Intelligence at the Edge | QpiAI\n\nThe Artificial Intelligence team at QpiAI is building the next frontier of AI-driven edge intelligence—powering smart devices, real-time perception systems, and decentralized learning pipelines for industry-grade applications.\n\nFrom Agentic AI to Computer Vision and model optimization for edge hardware, we are designing cutting-edge solutions to push AI inference beyond the cloud. If you’re excited by the idea of bringing Large Models to Tiny Devices, we want to hear from you.\n\n\n🔍 Who We’re Looking For\n\nWe’re hiring Edge AI Interns to work alongside our product and engineering teams. You will be contributing to:\n\nEdge AI model optimization, quantization, and ONNX conversion\nEdge deployment workflows (e.g., Android/Linux) using Docker and Kubernetes\nReal-time inference for CV and NLP applications on resource-constrained devices\nPrototyping and testing model performance across ARM/NPU/EdgeTPU platforms\nIntegrating with QpiAI Pro and Agent Hive pipelines for edge-to-cloud AI orchestration\n\n\n💡 Ideal Candidate Traits\n\nFirst principles thinker with a passion for AI at the edge\nStrong problem-solving skills and curiosity for optimization trade-offs\nHands-on, self-motivated, and eager to experiment and iterate\n\n\n✅ Key Requirements\n\nSolid Python skills with deep learning libraries (PyTorch, TensorFlow, ONNX, TorchVision, OpenCV)\nFamiliarity with model quantization, pruning, and export formats (TorchScript, ONNX)\nDeep understanding of edge computing environments (e.g.,Jetson, ARM, Raspberry Pi)\nExperience with Docker, Kubernetes, Linux terminal\nExposure to MLOps tools and model orchestration frameworks\nStrong fundamentals in ML, DL, CNNs, and Transformer architectures\nUnderstanding of Version Control Systems, Workflow Orchestration, CI/CD pipeline\nRecent graduate or student in Computer Science, ECE, or AI-focused programs (IITs/NITs preferred)\n\n\n🌟 Bonus Skills (Good to Have)\n\nKnowledge of low-level optimizations (TVM, TensorRT, TFLite, OpenVINO)\nFamilicity with MQTT, MinIO, or similar edge communication protocols\nExperience with edge inference on audio, video, or multi-modal datasets\nExposure to LangGraph, LangFlow, or multi-agent frameworks",
+  "company_name": "QpiAI ",
+  "location": "Bengaluru, Karnataka, India",
+  "experience_required": "Recent graduate or student",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "ONNX",
+    "TorchVision",
+    "OpenCV",
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "ARM",
+    "Raspberry Pi",
+    "MLOps",
+    "CNNs",
+    "Transformer architectures",
+    "Git"
+  ],
+  "contact_info": [],
+  "score": 7,
+  "tier": "medium",
+  "tags": [
+    "unpaid",
+    "high_learning",
+    "student_friendly",
+    "clear_info"
+  ]
+},
