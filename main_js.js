@@ -4,7 +4,7 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 const fs = require("fs");
 const { GoogleGenerativeAI } = require("@google/generative-ai");
-const Tesseract = require("tesseract.js");
+const Tesseract = require("tesseract.js")
 const { exec } = require("child_process");
 require("dotenv").config();
 

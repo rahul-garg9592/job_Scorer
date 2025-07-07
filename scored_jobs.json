@@ -475,3 +475,29 @@
     "clear_info"
   ]
 },
+{
+  "job_title": "App Developer Intern",
+  "job_description": "Build MVP from scratch in 2 months. Work on real product launch.  India\u2019s Auto-Rickshaw Ride-Hailing App for Tier 2 & Tier 3 Cities.",
+  "company_name": "ECTO",
+  "location": "Remote",
+  "experience_required": "Final-year students or recent grads preferred",
+  "tech_stack": [
+    "Flutter",
+    "React Native",
+    "Firebase",
+    "Node.js"
+  ],
+  "contact_info": [
+    "singla.manan117@gmail.com",
+    "+91 93500 30763"
+  ],
+  "score": 9,
+  "tier": "medium",
+  "tags": [
+    "paid_internship",
+    "student_friendly",
+    "high_learning",
+    "remote",
+    "clear_info"
+  ]
+},
